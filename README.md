@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## DeepOnion community wiki.
+
+This wiki is intended to make it easier to find important information about the [DeepOnion](https://www.deeponion.org/) project.
+If you want to contribute, send a pm to thegrey on the [forum](https://deeponion.org/community/)
 
 You can use the [editor on GitHub](https://github.com/7hegrey/deeponionwiki.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
