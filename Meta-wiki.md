@@ -1,1 +1,0 @@
-Doc about the wiki itself
