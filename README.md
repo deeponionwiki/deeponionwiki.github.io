@@ -23,6 +23,11 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 [Prohashing](https://prohashing.com/explorer/Deeponion/)
 
 
+## Exchanges
+
+[Cryptopia ONION BTC](https://www.cryptopia.co.nz/Exchange?market=ONION_BTC)
+
+[Cryptopia DOGE BTC](https://www.cryptopia.co.nz/Exchange?market=ONION_DOGE)
 
 
 ### Metawiki
