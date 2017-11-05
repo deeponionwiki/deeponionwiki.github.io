@@ -1,3 +1,3 @@
 Main page
 test
-[Meta wiki](docs/HOME.md)
+[Meta wiki](docs/README.md)
