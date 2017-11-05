@@ -1,5 +1,7 @@
 Main page
 test
-[Meta wiki(readme)](docs/README.md)
+
+[How to use this wiki (Meta wiki)](docs/README.md)
 
 [Wiki home](docs/HOME.md)
+
