@@ -1,16 +1,20 @@
 (I'll announce this on DO forums "later" when it is more done, you find me if you have questions.)
 
-#DeepOnion Wiki
+# DeepOnion Wiki
+
 This should mainly be a link collection, pointing to the most updated documentation and information
 
-##Howtos
+## Howtos
 
 
-##Rules and Requirement
+## Rules and Requirement
+
 DeepPoint activity points
+
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1tmT5frUmr5dSDAm44Bl3QUA_QeQOEuLeaQ7JupbySvQ/edit#gid=1646697783)
 
-##Explorers and Pools
+## Explorers and Pools
+
 Explorers (at least explorer.deeponion.org is known not be updated at all times)
 [youngwebsolutions](http://onionexplorer.youngwebsolutions.com:3001/)
 
@@ -21,8 +25,9 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 
 
 
-##Metawiki
-[How to use this wiki (Meta wiki)](docs/README.md)
+### Metawiki
+
+[Meta wiki](docs/README.md)
 
 [Wiki home](docs/HOME.md)
 
