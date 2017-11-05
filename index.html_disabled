@@ -3,7 +3,7 @@
 <head>
 <title>DeepOnion Wiki</title>
   <link rel="import" href="docs/">
-  <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
 </head>
 
 <body>
@@ -11,7 +11,7 @@
 <div id="docs"></div>
  
 <script>
-$( "#docs" ).load( "/docs" );
+$( "#docs" ).load( "https://deeponionwiki.github.io/docs" );
 </script>
 </body>
 
