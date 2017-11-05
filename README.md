@@ -5,6 +5,13 @@ test
 
 [Wiki home](docs/HOME.md)
 
-deeppoint rules
+Deeppoint Rules
 https://docs.google.com/spreadsheets/d/1tmT5frUmr5dSDAm44Bl3QUA_QeQOEuLeaQ7JupbySvQ/edit#gid=1646697783
+
+Explorers (at least explorer.deeponion.org is known not be updated at all times)
+http://onionexplorer.youngwebsolutions.com:3001/
+
+http://explorer.deeponion.org
+
+https://prohashing.com/explorer/Deeponion/
 
