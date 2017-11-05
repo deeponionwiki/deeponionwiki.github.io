@@ -1,4 +1,6 @@
-(I'll announce this on DO forums "later" when it is more done, you find me if you have questions)
+(I'll announce this on DO forums "later" when it is more done, you find me if you have questions.)
+
+
 Main page
 test
 
@@ -15,4 +17,8 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 [DeepOnion](http://explorer.deeponion.org)
 
 [Prohashing](https://prohashing.com/explorer/Deeponion/)
+
+
+
+Bounty/donation accepted :DYArPahJ9wPP4Lqc6UhnKrD5LaaJbLJTyK
 
