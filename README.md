@@ -10,6 +10,7 @@ This should mainly be a link collection, pointing to the most updated documentat
 ## Rules, Requirements, Ranks, Thropies, Points
 
 [DeepPoint activity points](https://docs.google.com/spreadsheets/d/1tmT5frUmr5dSDAm44Bl3QUA_QeQOEuLeaQ7JupbySvQ/edit#gid=1646697783)
+
 [Forum Ranks & Tropies & Deeppoints Explained](https://deeponion.org/community/threads/forum-ranks-tropies-deeppoints-explained.5062/)
 
 ## Explorers and Pools
