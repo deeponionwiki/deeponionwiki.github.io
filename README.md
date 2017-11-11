@@ -16,6 +16,7 @@ This should mainly be a link collection, pointing to the most updated documentat
 ## Explorers and Pools
 
 Explorers (at least explorer.deeponion.org is known not be updated at all times)
+
 [youngwebsolutions](http://onionexplorer.youngwebsolutions.com:3001/)
 
 [DeepOnion](http://explorer.deeponion.org)
@@ -29,6 +30,9 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 
 [Cryptopia DOGE BTC](https://www.cryptopia.co.nz/Exchange?market=ONION_DOGE)
 
+## Graphical material etc
+
+[Official(?) avatars](https://deeponion.org/community/threads/avatar-bank.2662/)
 
 ### Metawiki
 
