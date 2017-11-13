@@ -34,6 +34,14 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 
 [Official(?) avatars](https://deeponion.org/community/threads/avatar-bank.2662/)
 
+## External presence (official DO links)
+
+[Twitter @DeepOnionx](https://twitter.com/deeponionx)
+
+[Youtube DeepOnion] (https://www.youtube.com/channel/UC0CNbGzlI56nl7BJ02BTz8w)
+
+[Facebook @DeepOnionx] (https://www.facebook.com/deeponionx/)
+
 ### Metawiki
 
 [Meta wiki](docs/README.md)
