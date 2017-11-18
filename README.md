@@ -42,9 +42,9 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 
 [Twitter @DeepOnionx](https://twitter.com/deeponionx)
 
-[Youtube DeepOnion] (https://www.youtube.com/channel/UC0CNbGzlI56nl7BJ02BTz8w)
+[Youtube DeepOnion](https://www.youtube.com/channel/UC0CNbGzlI56nl7BJ02BTz8w)
 
-[Facebook @DeepOnionx] (https://www.facebook.com/deeponionx/)
+[Facebook @DeepOnionx](https://www.facebook.com/deeponionx/)
 
 [Cryptopia forum official thread](https://www.cryptopia.co.nz/Forum/Thread/3031)
 
