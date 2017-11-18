@@ -46,6 +46,8 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 
 [Facebook @DeepOnionx] (https://www.facebook.com/deeponionx/)
 
+[Cryptopia forum official thread](https://www.cryptopia.co.nz/Forum/Thread/3031)
+
 ### Metawiki
 
 [Meta wiki](docs/README.md)
