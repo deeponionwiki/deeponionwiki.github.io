@@ -32,7 +32,11 @@ Explorers (at least explorer.deeponion.org is known not be updated at all times)
 
 ## Graphical material etc
 
+[Media Resources](https://deeponion.org/community/threads/media-resources.1962/)
+
 [Official(?) avatars](https://deeponion.org/community/threads/avatar-bank.2662/)
+
+
 
 ## External presence (official DO links)
 
