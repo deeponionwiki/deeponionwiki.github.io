@@ -13,6 +13,8 @@ This should mainly be a link collection, pointing to the most updated documentat
 
 [Forum Ranks & Tropies & Deeppoints Explained](https://deeponion.org/community/threads/forum-ranks-tropies-deeppoints-explained.5062/)
 
+https://deeponion.org/community/threads/some-changes-to-how-we-operate-deeppoints.20984/
+
 ## Explorers and Pools
 
 Explorers (at least explorer.deeponion.org is known not be updated at all times)
